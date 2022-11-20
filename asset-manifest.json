@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DiscordFrontCopy/static/css/main.9da9efdf.css",
+    "main.js": "/DiscordFrontCopy/static/js/main.7922f51d.js",
+    "index.html": "/DiscordFrontCopy/index.html",
+    "main.9da9efdf.css.map": "/DiscordFrontCopy/static/css/main.9da9efdf.css.map",
+    "main.7922f51d.js.map": "/DiscordFrontCopy/static/js/main.7922f51d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da9efdf.css",
+    "static/js/main.7922f51d.js"
+  ]
+}
