@@ -1,0 +1,26 @@
+.message{
+    list-style: none;
+    display: flex;
+    width:100%;
+    height: calc(50px + 1rem);
+    position: relative;
+    gap: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(44, 43, 43, 0.282);
+    align-items: center;
+}
+.message img{
+    height: 100%;
+    border-radius: 50%;
+}
+.msgContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+.msgContainer p:first-child{
+    color: rgb(122, 198, 122);
+}
+.msgContainer p:nth-child(2){
+    color: rgb(217, 217, 217);
+}
